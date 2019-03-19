@@ -1,0 +1,7 @@
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\bin\Debug\csNetworkTest.exe.config
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\bin\Debug\csNetworkTest.exe
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\bin\Debug\csNetworkTest.pdb
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\obj\Debug\csNetworkTest.csprojAssemblyReference.cache
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\obj\Debug\csNetworkTest.csproj.CoreCompileInputs.cache
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\obj\Debug\csNetworkTest.exe
+C:\Users\ConfigitOp001\source\repos\csNetworkTest\csNetworkTest\obj\Debug\csNetworkTest.pdb
