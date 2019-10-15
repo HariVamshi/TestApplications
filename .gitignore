@@ -1,0 +1,14 @@
+
+.vs/
+*.csproj.user
+*.pubxml
+bin/
+obj/
+build/
+packages/
+*.suo
+*.pdb
+*.lnk
+*.user
+
+user.settings.xml
